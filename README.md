@@ -12,4 +12,4 @@
 #### A custom camera module that:
 * rotates the character in the direction the camera is facing
 * rotates the upper torso and head to look in the direction the camera is facing
-![](https://kapwi.ng/c/jNeu5R2w)
+![](https://media.giphy.com/media/xkQXABYfWJ8RTAXKeF/giphy.gif)
