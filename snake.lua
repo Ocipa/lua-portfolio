@@ -70,7 +70,7 @@ function generateGrid()
 			label.Size = UDim2.new(1 / gSize, 0, 1 / gSize, 0)
 			label.Position = UDim2.new(1 / gSize * (x - 1), 0, 1 / gSize * (y - 1), 0)
 			label.BackgroundColor3 = Color3.fromRGB(225, 225, 225)
-			label.BorderSizePixel = 0
+			label.BorderSizePixel = 1
 			label.BorderColor3 = Color3.fromRGB(0, 0, 0)
 			
 			label.Image = gridTextureId or ""
