@@ -15,3 +15,8 @@
 * rotates the character in the direction the camera is facing
 * rotates the upper torso and head to look in the direction the camera is facing
 ![](https://media.giphy.com/media/xkQXABYfWJ8RTAXKeF/giphy.gif)
+
+### Snake
+[github link](https://github.com/Ocipa/lua-portfolio/blob/main/custom-camera.lua)
+#### A qucik little project
+![](https://media.giphy.com/media/ZVVUBz9fL6MKqBgid9/giphy.gif)
