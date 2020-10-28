@@ -9,6 +9,7 @@
 * create custom properties and methods
 * api to creates instances that are more readable
 
+
 ### Custom Camera
 [github link](https://github.com/Ocipa/lua-portfolio/blob/main/custom-camera.lua)
 #### A custom camera module that:
@@ -16,10 +17,14 @@
 * rotates the upper torso and head to look in the direction the camera is facing
 ![](https://media.giphy.com/media/xkQXABYfWJ8RTAXKeF/giphy.gif)
 
+(It is a lot smoother than it looks in the gif.)
+
+
 ### Snake
 [github link](https://github.com/Ocipa/lua-portfolio/blob/main/snake.lua)
 #### A qucik little project
 ![](https://media.giphy.com/media/ZVVUBz9fL6MKqBgid9/giphy.gif)
+
 
 ### Simple Hotbar
 [github link](https://github.com/Ocipa/lua-portfolio/blob/main/hotbar.lua)
