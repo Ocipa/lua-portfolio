@@ -17,6 +17,11 @@
 ![](https://media.giphy.com/media/xkQXABYfWJ8RTAXKeF/giphy.gif)
 
 ### Snake
-[github link](https://github.com/Ocipa/lua-portfolio/blob/main/custom-camera.lua)
+[github link](https://github.com/Ocipa/lua-portfolio/blob/main/snake.lua)
 #### A qucik little project
 ![](https://media.giphy.com/media/ZVVUBz9fL6MKqBgid9/giphy.gif)
+
+### Simple Hotbar
+[github link](https://github.com/Ocipa/lua-portfolio/blob/main/hotbar.lua)
+#### A simple hotbar that you can adjust the number of hotkeys, change the tweentime, and the amount they rotate, click the hotkeys or the corresponding number key.
+![](https://media.giphy.com/media/It0YJaHq7ngmwRcYP0/giphy.gif)
