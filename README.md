@@ -37,5 +37,5 @@
 #### Places a random circle in a frame, check if is overlapping with another circle, if not, then get the distance to the nearest neighbor, sets the radius to that distance.
 * does not use a near neighbor algorithm
 
-![](https://i.ibb.co/zsxwQWp/fill-with-circles.png)
+![](https://i.ibb.co/ZxDj2Rp/fill-with-circles.png)
 
