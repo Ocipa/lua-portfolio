@@ -1,5 +1,8 @@
 --K.E. (Ocipa), October 2020
 
+--[[
+paste this into a local script
+--]]
 
 local players = game.Players
 local player = players.LocalPlayer
