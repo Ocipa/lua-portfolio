@@ -1,3 +1,8 @@
+--[[
+paste this in a module script,
+then in a local script, require this module
+--]]
+
 local module = {
 	event_garbage = {}
 }
