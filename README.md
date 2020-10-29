@@ -22,7 +22,7 @@
 
 ### Snake
 [github link](https://github.com/Ocipa/lua-portfolio/blob/main/snake.lua)
-#### A qucik little project
+#### A quick little project
 ![](https://media.giphy.com/media/ZVVUBz9fL6MKqBgid9/giphy.gif)
 
 
@@ -30,3 +30,12 @@
 [github link](https://github.com/Ocipa/lua-portfolio/blob/main/hotbar.lua)
 #### A simple hotbar that you can adjust the number of hotkeys, change the tweentime, and the amount they rotate, click the hotkeys or the corresponding number key.
 ![](https://media.giphy.com/media/It0YJaHq7ngmwRcYP0/giphy.gif)
+
+
+### Fill With Circles
+[github link](https://github.com/Ocipa/lua-portfolio/blob/main/fill-with-circles.lua)
+#### Places a random circle in a frame, check if is overlapping with another circle, if not, then get the distance to the nearest neighbor, sets the radius to that distance.
+* does not use a near neighbor algorithm
+
+![](https://i.ibb.co/zsxwQWp/fill-with-circles.png)
+
