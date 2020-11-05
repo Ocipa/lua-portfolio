@@ -7,7 +7,7 @@
 [github link](https://github.com/Ocipa/Wrapped-Object-Library)
 #### A module that wraps instances to create custom properties and methods
 * create custom properties and methods
-* api to creates instances that are more readable
+* api to create more readable instances
 
 
 ### Custom Camera
@@ -28,7 +28,11 @@
 
 ### Simple Hotbar
 [github link](https://github.com/Ocipa/lua-portfolio/blob/main/hotbar.lua)
-#### A simple hotbar that you can adjust the number of hotkeys, change the tweentime, and the amount they rotate, click the hotkeys or the corresponding number key.
+#### A simple hotbar that you can easily adjust:
+* the number of hotkeys
+* the tween time of the rotation
+* the amount it rotates
+
 ![](https://media.giphy.com/media/It0YJaHq7ngmwRcYP0/giphy.gif)
 
 
@@ -39,3 +43,8 @@
 
 ![](https://i.ibb.co/ZxDj2Rp/fill-with-circles.png)
 
+
+### Grid Placement
+[github link](https://github.com/Ocipa/lua-portfolio/blob/main/grid-placement.lua)
+#### A simple module that snaps the "block" to a grid
+![](https://media.giphy.com/media/sS9JD8HiLqM2ZRBvGo/giphy.gif)
